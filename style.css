@@ -94,6 +94,7 @@ h1{
     border-radius: 10px;
     cursor: pointer;
     transition: opacity 0.9s;
+    box-shadow: 0px 15px 20px 0px hsla(245, 75%, 52%, 0.3);
 }
 
 .info-container button:hover{
